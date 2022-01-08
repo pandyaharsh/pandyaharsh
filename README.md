@@ -5,7 +5,7 @@
 
 - 🔭 Previously, I was working as a Graduate Research Assistant.
 
-👨‍💻 All of my projects are available at https://github.com/pandyaharsh
+- 👨‍💻 All of my projects are available at https://github.com/pandyaharsh
 
 - 🌱 I’m currently learning Java Spring Boot, Docker, React JS
 
